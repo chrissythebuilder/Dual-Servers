@@ -1,0 +1,29 @@
+{
+  "name": "dual-servers",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chrissythebuilder/Dual-Servers.git"
+  },
+  "keywords": [
+    "express",
+    "javascript",
+    "create",
+    "read",
+    "update",
+    "delete",
+    "servers"
+  ],
+  "author": "Chriscelle",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/chrissythebuilder/Dual-Servers/issues"
+  },
+  "homepage": "https://github.com/chrissythebuilder/Dual-Servers#readme"
+}
